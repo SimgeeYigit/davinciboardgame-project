@@ -39,5 +39,6 @@ This project is built as part of **Phase 1** to evaluate:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SimgeeYigit/davinciboardgame-project.git
+cd davinciboardgame-project
+npm install
